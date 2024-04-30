@@ -1,0 +1,5 @@
+flask
+tensorflow==2.13.0
+nltk
+googletrans
+mysql-connector-python==8.0.32
